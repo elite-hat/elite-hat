@@ -2,6 +2,8 @@
 
 # I am Elite Hat
 
+A Web Developer & a Programmer.
+
 <!--
 **elite-hat/elite-hat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
