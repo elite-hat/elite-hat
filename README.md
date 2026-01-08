@@ -1,4 +1,17 @@
-# 👋 Hi, I'm Abdun Nafay Rathore (Elite Hat)  
+### Hello World!
+
+# I'm Elite Hat
+
+### About Me
+
+I'm a passionate learner exploring the world of **Front-End Development**. I enjoy coding in HTML, CSS, JavaScript, Python, C, and TypeScript.
+
+I love creating, analyzing, and imagining Tech Products.
+
+I'm just starting my journey in the field of programming, but I believe:
+> "You can conquer everything you try for. And you can't conquer anything you don't try for."
+
+<!--# 👋 Hi, I'm Abdun Nafay Rathore (Elite Hat)  
 
 ### 🌱 About Me
 I’m a passionate learner exploring the world of **Front-End Development** and **AI**. I enjoy coding in **C, Python, and JavaScript**, and I love creating, analyzing, and imagining amazing tech products.  
@@ -17,7 +30,7 @@ Even as a beginner, I love thinking of new ideas and imagining tech that could c
 
 ### 📫 Connect with Me
 - GitHub: [elite-hat](https://github.com/elite-hat)  
-- Always open to learning, collaborating, and sharing ideas!
+- Always open to learning, collaborating, and sharing ideas!-->
 
 
 <!--
