@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm a passionate learner exploring the world of **Front-End Development**. I enjoy coding in HTML, CSS, JavaScript, Python, C, and TypeScript.
+I'm Abdun Nafay Rathore, a passionate learner exploring the world of **Front-End Development**. I enjoy coding in HTML, CSS, JavaScript, Python, C, and TypeScript.
 
 I love creating, analyzing, and imagining Tech Products.
 
