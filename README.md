@@ -9,7 +9,7 @@ I'm Abdun Nafay Rathore, a passionate learner exploring the world of **Front-End
 I love creating, analyzing, and imagining Tech Products.
 
 I'm just starting my journey in the field of programming, but I believe:
-"You can conquer everything you try for. And you can't conquer anything you don't try for."
+"You can conquer everything you try for. And you can not conquer anything you don't try for."
 
 <!--# 👋 Hi, I'm Abdun Nafay Rathore (Elite Hat)  
 
