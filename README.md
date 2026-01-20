@@ -9,7 +9,7 @@
 [![Label](https://img.shields.io/badge/-YouTube-red?logo=youtube)](https://www.youtube.com/@elite_hat_193)
 [![Label](https://img.shields.io/badge/-Duolingo-brightgreen?logo=duolingo&logoColor=white)](https://www.duolingo.com/profile/EliteHat)
 
-### I'm _Abdun Nafay Rathore_, the **Elite Hat**
+### I'm _Abdun Nafay Rathore_, the **Elite Hat**.
 
 ## Technical Stack
 
