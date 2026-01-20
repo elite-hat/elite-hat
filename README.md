@@ -2,7 +2,7 @@
 
 # I am **Elite Hat**
 
-**Front End Developer · Tech Enthusiast · Industry Analyst**
+**Tech Enthusiast · Front End Developer · Industry Analyst**
 
 [![Label](https://img.shields.io/badge/-elite--hat-grey?logo=github)](https://www.github.com/elite-hat)
 [![Label](https://img.shields.io/badge/-Elite_Hat-black?logo=x)](https://x.com/Elite_Hat_193)
